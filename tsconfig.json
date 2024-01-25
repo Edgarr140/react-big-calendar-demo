@@ -18,6 +18,7 @@
     "jsx": "react-jsx",
     "keyofStringsOnly": true,
     "baseUrl": ".",
+    
     "paths": {
       "@/*": ["src/*"]
     }
